@@ -21,6 +21,7 @@ public class ProvaStudio {
         System.out.println("Bonsoir mes amis!");
         
         System.out.println("MOLTO SIMPATICO");
+        System.out.println("MOLTO SIMPATICO PT2");
         
     }
     
